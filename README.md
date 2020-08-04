@@ -8,7 +8,7 @@ contato pelo jef_shandler@msn.com
 
 # Proffy | Sua plataforma de estudos online
 Sua plataforma de estudos online
-# nlw2-proffy Aprendendo projeto Com a Rockt.....
+# nlw2-proffy Aprendendo Na NLW2 da Fantastica Rockt.....
 
 ## O Projeto
 ## 🏄🏽‍♂️ Introdução às tecnologias
