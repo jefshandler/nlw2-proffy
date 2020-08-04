@@ -3,6 +3,7 @@ Hoje trabalho em uma transportadora.
 Estou cursando ultimo semestre de ADS(Analise Desenvolvimento de Sistemas)3 anos
 Fazendo alguns cursos na Area de Programação, PHP, HTML, CSS e Lutando no javascript.
 contato pelo jef_shandler@msn.com
+https://www.linkedin.com/in/jeferson-shandler-8915ab136/
 
 # nlw2-proffy
 
